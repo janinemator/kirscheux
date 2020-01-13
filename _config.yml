@@ -1,0 +1,31 @@
+# site settings
+title: Home
+subtitle: 
+email: jdmator@gmail.com
+description: Hello! I'm Janine, a usability researcher <br> and human factors graduate student at Old Dominion University.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: Janine Mator
+
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/janinemator
+gitlab_url: 
+googleplus_url:
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/jdmator/
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
